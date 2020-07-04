@@ -2,9 +2,4 @@
 
 "Name is Aisha"
 
-"Man, we have to merge it first"
-"Lets conflict this line...."
-
-"This time its pull-rebase..."
-"ONCE MORE!!!"
-what to do?
+"Man, do we have to merge this?"
